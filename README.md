@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
   <head>
-  <title> Headings</title>
+  <title>Headings</title>
   </head>
   <body>
     <h1>Heading 1</h1>
